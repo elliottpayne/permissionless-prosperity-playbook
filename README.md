@@ -51,4 +51,4 @@ The Permissionless Prosperity Playbook repository is divided into the following 
 
 For more details on who we are, visit [https://www.sense-datum.com](https://www.sense-datum.com) , follow [Elliott Payne on twitter](https://twitter.com/elliottlpayne), [Linkedin](http://www.linkedin.com/in/elliottpayne) , and [Facebook](http://www.facebook.com/13950542) .
 
-This work is licensed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/piepdx/pie-cookbook/blob/master/LICENSE.txt)
+This work is licensed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/elliottpayne/permissionless-prosperity-playbook/blob/master/LICENSE.txt)
