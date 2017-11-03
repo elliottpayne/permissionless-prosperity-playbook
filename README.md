@@ -6,7 +6,7 @@ The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup
 
 ## Current focus (Updated November 3rd, 2017)
 
- **CURRENT VERSION: ** **[PERMISSIONLESS PROSPERITY PLAYBOOK ](https://github.com/elliottpayne/permissionless-prosperity-playbook)** 
+ **CURRENT VERSION:** **[PERMISSIONLESS PROSPERITY PLAYBOOK ](https://github.com/elliottpayne/permissionless-prosperity-playbook)** 
 
 Currently focused on:
 
@@ -35,7 +35,7 @@ We are looking forward to building this content with you. That's why we're doing
 
 For now, there are two primary ways to provide feedback:
 
-1. Use the [Permissionless Prosperity Playbook Issues on Github] to comment on the content under development and track the ongoing development.
+1. Use the [Permissionless Prosperity Playbook Issues on Github](https://github.com/elliottpayne/permissionless-prosperity-playbook/issues) to comment on the content under development and track the ongoing development.
 2.  [Fork the repository](https://github.com/elliottpayne/permissionless-prosperity-playbook/blob/master/notes/github/howto-github.md) , make edits, and submit pull requests.
 
 ## Structure
