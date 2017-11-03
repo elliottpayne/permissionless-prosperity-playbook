@@ -1,5 +1,5 @@
-**PIE Cookbook** by PIE (http://piepdx.com/) is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
-Based on a work at [https://github.com/piepdx/pie-cookbook](https://github.com/piepdx/pie-cookbook) 
+**Permissionless Prosperity Playbook** by Elliott Payne (http://elliottpayne.com/) is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Based on a work at [https://github.com/elliottpayne/permissionless-prosperity-playbook](https://github.com/elliottpayne/permissionless-prosperity-playbook) 
 
 **Attribution 4.0 International**
 
