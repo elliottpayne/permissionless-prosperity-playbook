@@ -1,7 +1,7 @@
 # Permissionless Prosperity Playbook
-An open source guide to starting and managing your own early stage startup accelerator — or any accelerator, for that matter.
+An open source guide to defining and pursuing prosperity on your own terms.
 
-Thank you @turoczy for your vision and detication to sharing knowledge and making that knowledge open and sharable. Without all of your hard work, and the support of your community of PIE alumns, mentors, contributors, sponsors, patrons, and [Kickstarter backers](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce/community) this project would not be possible..
+Thank you @turoczy for your vision and dedication to sharing knowledge and making that knowledge open and sharable. Without all of your hard work, and the support of your community of PIE alumns, mentors, contributors, sponsors, patrons, and [Kickstarter backers](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce/community) this project would not be possible..
 
 ## Table of contents
 - [Preface](#preface)
