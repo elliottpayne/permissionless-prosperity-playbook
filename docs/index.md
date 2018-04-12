@@ -1,3 +1,3 @@
-# Pie Cookbook
+# Permissionless Prosperity Playbook
 
-Welcome to the cookbook.
+Welcome to the playbook.
