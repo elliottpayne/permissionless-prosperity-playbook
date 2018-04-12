@@ -20,18 +20,38 @@ This project was started by Elliott Payne and is informed by ongoing work he's d
 The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup Playbook in that its focus is on creating sustainable paths towards security and prosperity for individuals and communities as opposed to creating a Silicon Valley style startup whose purpose is to create a return on investment for venture capitalists.
 
 ## The project's antecedents
+The Permissionless Prosperity Playbook 
 ## The need for self enablement
 ## How we envision this playbook getting used
 Like many playbooks, there’s no one way to use this book. 
+
+### Define what prosperity means to you before you start
+Know what drives you is the most important step. We use in *prosperity* an expansive way to capture any number of meanings that are ultimately personal to you. You have to ask yourself what's important to you, what are your values.
+
+We can look to the [dictionary](https://www.wordnik.com/words/prosperous) to unpack the meaning of prosperity:
+
+> adj. Having success; flourishing: a prosperous new business. </br>
+> adj. Well-to-do; well-off: a prosperous family.</br>
+> adj. Propitious; favorable: a prosperous moment to make a decision.
+
+Digging a little deeper into the [definition](https://www.wordnik.com/words/prosperous) of prosperous:
+
+> adj. Having success; flourishing: a prosperous new business. </br>
+> adj. Well-to-do; well-off: a prosperous family. </br>
+> adj. Propitious; favorable: a prosperous moment to make a decision.
+
+This is more helpful, but still leaves a lot of room for interpretation. Wealth, success, well-off, well being, these are all concepts open for interpretation and you want to ground yourself now. Gaining status with a luxury car is one expression of wealth, putting a down payment on a home is another, being able to provide for your family is another. We're not here to judge your values, but you need to know you values now, while you have the mental and emotional space to reflect on them without the pressure of making a judgement call that will test your values. All challenging decisions require trade-offs and knowing your values and goals are how you can make judgement calls in confidence.
+
+Take some time to write down your goals and your values. Define what prosperity means to. This helps keep you on track and helps you know how you're doing as you embark on this journey.
 
 ### Some expected use cases or scenarios
 
 This playbook provides the instructions that worked for other people and communities. They may or may not work for you. And your special adaptations are what make each play work for you. 
 
-With that in mind, it is our intention to:
+With that in mind, our intention is to:
 
 - Arm you with enough knowledge to be dangerous. And to break things.
-- Give you enough insight into our process for you to internalize it, change it, and create your own way of doing things.
+- Give you enough insight into others processes for you to internalize them, change them, and create your own way of doing things.
 - Encourage you to communicate back to us what worked and what didn’t. So that we can create a more compelling playbook for everyone that is just as motivated as we are.
 
 ### Jump around as needed. Choose your own adventure.
