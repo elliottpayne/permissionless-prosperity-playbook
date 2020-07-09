@@ -10,23 +10,27 @@ Thank you @turoczy for your vision and dedication to sharing knowledge and makin
 
 # Preface 
 > It's hard for people to realize now how inconsequential YC seemed at the time. I can't blame people who didn't take us seriously, because we ourselves didn't take that first summer program seriously in the very beginning. But as the summer progressed we were increasingly impressed by how well the startups were doing.… When people came to YC to speak at the dinners that first summer, they came in the spirit of someone coming to address a Boy Scout troop. By the time they left the building they were all saying some variant of "Wow, these companies might actually succeed."
+> —Paul Graham, [How Y Combinator Started](http://old.ycombinator.com/start.html)
 
-> - Paul Graham, [How Y Combinator Started](http://old.ycombinator.com/start.html)
+> The Master’s Tools Will Never Dismantle the Master’s House
+> — Audre Lorde
 
 
 ## How this project came to be
-This project was started by Elliott Payne and is informed by ongoing work he's doing with the City of Minneapolis Innovation Team through his consulting practice supporting and encouraging minority and immigrant members of the community to start their own businesses. This playbook is inspired by the PIE Cookbook and the Startup Playbook.
+This project was started by [Elliott Payne](http://elliottpayne.com) through his participation in [Change Network Minnesota](http://www.changenetworkminnesota.com) and is informed by lessons learned from supporting entrepreneurs in partnership with the [City of Minneapolis Innovation Team](http://innovateminneapolis.com) and through his consulting practice. This playbook is is written in the spirit of open source and inspired by the PIE Cookbook and the Startup Playbook.
 
-The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup Playbook in that its focus is on creating sustainable paths towards security and prosperity for individuals and communities as opposed to creating a Silicon Valley style startup whose purpose is to create a return on investment for venture capitalists.
+The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup Playbook in that its focus is on creating sustainable paths towards security and prosperity for  communities as opposed to creating a Silicon Valley style startup whose purpose is to create a return on investment for venture capitalists.
 
-## The project's antecedents
-The Permissionless Prosperity Playbook 
-## The need for self enablement
+## The People’s Theory
+Change Network Minnesota is a cohort based leadership initiative that grew out of a partnership between [The Cultural Wellness Center](http://www.culturalwellnesscenter.org), the Public and Nonprofit Leadership Center at the University of Minnesota's [Humphrey School of Public Affairs](https://www.hhh.umn.edu) and the [Bush Foundation](https://www.bushfoundation.org) whose goal is to build a more equitable and inclusive society through systems change. This project is an outgrowth of that year of learning, which was grounded in The Cultural Wellness Center’s People’s Theory, which grounds the health of people, systems, and institutions in a sense of belonging.
+
+The People’s Theory lays to rest the mythology of [bootstraping](https://en.wikipedia.org/wiki/Bootstrapping) your way to success by revealing the negative impacts of an individualistic approach to attaining prosperity. Instead, this work is grounded in a philosophy of community, where the group is valued and empowered, authority is given to the organic idea, and power and knowledge rests within people’s experiences. Prosperity exists within community.
+
 ## How we envision this playbook getting used
-Like many playbooks, there’s no one way to use this book. 
+Like many playbooks, there’s no one way to use this book. This book should not be approached as a step-by-step guide to success, but explored as a resource to unearth knowledge and opportunity within yourself and your community.
 
 ### Define what prosperity means to you before you start
-Know what drives you is the most important step. We use in *prosperity* an expansive way to capture any number of meanings that are ultimately personal to you. You have to ask yourself what's important to you, what are your values.
+Knowing what drives you is the most important step. We use *prosperity* an expansive way to capture any number of meanings that are ultimately personal to you and exists within the context of your community. You have to ask yourself what's important to you, what are your values, and who are your people.
 
 We can look to the [dictionary](https://www.wordnik.com/words/prosperous) to unpack the meaning of prosperity:
 
@@ -40,9 +44,9 @@ Digging a little deeper into the [definition](https://www.wordnik.com/words/pros
 > adj. Well-to-do; well-off: a prosperous family. </br>
 > adj. Propitious; favorable: a prosperous moment to make a decision.
 
-This is more helpful, but still leaves a lot of room for interpretation. Wealth, success, well-off, well being, these are all concepts open for interpretation and you want to ground yourself now. Gaining status with a luxury car is one expression of wealth, putting a down payment on a home is another, being able to provide for your family is another. We're not here to judge your values, but you need to know you values now, while you have the mental and emotional space to reflect on them without the pressure of making a judgement call that will test your values. All challenging decisions require trade-offs and knowing your values and goals are how you can make judgement calls in confidence.
+This is more helpful, but still leaves a lot of room for interpretation. Wealth, success, well-off, wellbeing, these are all concepts open for interpretation and you want to ground yourself now. Gaining status with a luxury car is one expression of wealth, putting a down payment on a home is another, being able to provide for your family is another. We're not here to judge your values, but you need to be clear in your values now, while you have the mental and emotional space to reflect on them without the pressure of making a judgement call that will test your values. All challenging decisions require trade-offs and knowing your values and goals are how you can make judgement calls with confidence.
 
-Take some time to write down your goals and your values. Define what prosperity means to. This helps keep you on track and helps you know how you're doing as you embark on this journey.
+Take some time to write down your goals and your values. Define what prosperity means to you. Think about who your people are and how your goals and values fit in that context. This helps keep you on track and helps you know how you're doing as you embark on this journey.
 
 ### Some expected use cases or scenarios
 
@@ -51,8 +55,8 @@ This playbook provides the instructions that worked for other people and communi
 With that in mind, our intention is to:
 
 - Arm you with enough knowledge to be dangerous. And to break things.
-- Give you enough insight into others processes for you to internalize them, change them, and create your own way of doing things.
-- Encourage you to communicate back to us what worked and what didn’t. So that we can create a more compelling playbook for everyone that is just as motivated as we are.
+- Give you enough insight into others’ processes for you to internalize them, change them, and create your own way of doing things.
+- Encourage you to communicate back to us what worked and what didn’t so that we can create a more compelling playbook for everyone that is just as motivated as we are.
 
 ### Jump around as needed. Choose your own adventure.
 This isn’t a book you read cover to cover. Some of this will seem obvious to you. If it is? Skip it. Sometimes you’ll need to start later in the book and work your way backwards.
@@ -60,7 +64,7 @@ This isn’t a book you read cover to cover. Some of this will seem obvious to y
 Start with what you have. Go from there.
 
 ## Who we believe will use this playbook
-This playbook is intended to be a community project, not an individual. Certainly an industrious individual should be able to apply some of the lessons and insights to their life and get value out of it, but the power of the playbook is in the community.
+This playbook is intended to be a community project, not an individual one. Certainly an industrious individual should be able to apply some of the lessons and insights to their life and get value out of it, but the power of the playbook is in the community.
 
 ## Open Source
 We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
@@ -69,7 +73,7 @@ This isn't a broadcast or soliloquy. It's a collaboration among communities. Tha
 
 
 ## Caveats
-I have always been a fan of books that start with a caveat or two. Because inevitably, you, gentle reader, have just started down this path. And given that you've already started to get a feel for where this is going, you're inevitably jumping to the question: Is this book for me?
+We believe an honest approach to this work requires a caveat or two. If you’ve read this far, you will inevitably jump to the question: Is this book for me?
 
 The answer is yes. But with a few caveats.
 
@@ -77,18 +81,17 @@ The answer is yes. But with a few caveats.
 If technology could solve this problem, we would have built it. Trust us. But it can't. This isn't about algorithms or dynamically connecting dots. This is about getting to know people. And what makes them tick. And what pisses them off. And what scares them. This is about seeing non-obvious connections. It is about using what artists refer to as "negative space." Finding opportunity in what is absent or invisible.   
   
 > Negative space, in art, is the space around and between the subject(s) of an image. Negative space may be most evident when the space around a subject, not the subject itself, forms an interesting or artistically relevant shape, and such space occasionally is used to artistic effect as the "real" subject of an image.  
-  
 > The use of negative space is a key element of artistic composition. The Japanese word "ma" is sometimes used for this concept, for example in garden design.  
+> —[“Negative space" in Wikipedia](https://en.wikipedia.org/wiki/Negative_space)  
   
-> - ["Negative space" in Wikipedia](https://en.wikipedia.org/wiki/Negative_space)  
-  
-So if you're looking for a way to throw technology at the problem and avoid the messy feels and stuff, it's probably best to stop reading here and starting to search the web for what you think you need.
+So if you're looking for a way to throw technology at the problem and avoid the messy emotions of people, it's probably best to stop reading here and starting to search the web for what you think you need.
 
 ### 2) You have the internal motivation to uplift yourself and your community.
+This playbook starts with a quote from Paul Graham, the founder of Y-Combinator, juxtaposed against the wisdom of Audre Lorde. The is an unresolved tension between the desire to prosper within the existing system and the recognition that the existing system needs to change. You need to sit in that tension and have the motivation to work through it. Easier said than done.
  
 
 ### 3) This is not intended to be an efficient solution. 
-Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It will require hard work and perseverance. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build a sustainable and prosperous life for you and your community — no matter what that community happens to be.
+Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, of how time consuming this is. It will require hard work and perseverance. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build a sustainable and prosperous life for you and your community — no matter what that community happens to be.
 
 ### 4) Be intentional
 So much of what occurs in an accelerator environment appears to happen organically and dynamically. But appearances, as they say, can be deceiving. And can belie all of the prior effort that has been invested prior to the accelerator environment.

@@ -8,7 +8,7 @@ This is all I had when I started my journey. Everyone&#39;s journey is going to 
 
 **Month 1 - Presentation**
 
-You&#39;ll want to spend your first 30 days using your ingenuity to create your sales material. This could be a resume, a portfolio a website, a video, etc. You&#39;ll want to take the content from that material and use it to setup your UpWork profile. (&quot; [How to create a rockstar Upwork profile that attracts clients in droves](https://freelancetowin.com/creating-upwork-profile/)&quot;)
+You&#39;ll want to spend your first 30 days using your ingenuity to create your sales material. This could be a resume, a portfolio a website, a video, etc. You&#39;ll want to take the content from that material and use it to setup your UpWork profile. [How to create a rockstar Upwork profile that attracts clients in droves](https://freelancetowin.com/creating-upwork-profile/)&quot;)
 
 Everything your preparing is with one goal in mind, getting an interview.
 
