@@ -4,7 +4,7 @@ This project was started by [Elliott Payne](https://elliottpayne.com) and is inf
 
 The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup Playbook in that its focus is on creating sustainable paths towards security and prosperity for individuals and communities as opposed to creating a Silicon Valley style startup whose purpose is to create a return on investment for venture capitalists.
 
-## Current focus (Updated April 12th, 2018)
+## Current focus (Updated July 9th, 2020)
 
  **CURRENT VERSION:** **[PERMISSIONLESS PROSPERITY PLAYBOOK (Draft 0.3)](https://github.com/elliottpayne/permissionless-prosperity-playbook/blob/master/drafts/p3_drafts/permissionless-prosperity-playbook-0.3.md)** 
 
@@ -13,7 +13,7 @@ Currently focused on:
 1. Reviewing forked PIE Cookbook content for relevancy
 2. Removing content that doesn't serve the goals of this playbook (ex: content aligned with venture capital based startups)
 3. Adding content relevant to the goals of this playbook
-4. Provide guidance and recommendations for defining what prosperity means to you
+
 
 ## Creating the Permissionless Prosperity Playbook
 
