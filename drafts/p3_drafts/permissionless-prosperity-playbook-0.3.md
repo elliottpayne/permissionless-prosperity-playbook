@@ -1,7 +1,7 @@
 # Permissionless Prosperity Playbook
 An open source guide to defining and pursuing prosperity on your own terms.
 
-Thank you @turoczy for your vision and dedication to sharing knowledge and making that knowledge open and sharable. Without all of your hard work, and the support of your community of PIE alumns, mentors, contributors, sponsors, patrons, and [Kickstarter backers](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce/community) this project would not be possible..
+Thank you @turoczy for your vision and dedication to sharing knowledge and making that knowledge open and sharable. Without all of your hard work, and the support of your community of PIE alumns, mentors, contributors, sponsors, patrons, and [Kickstarter backers](https://www.kickstarter.com/projects/turoczy/pie-cookbook-an-open-source-guide-for-startup-acce/community) this project would not be possible.
 
 # Table of Contents
 {{TOC}}
@@ -10,27 +10,23 @@ Thank you @turoczy for your vision and dedication to sharing knowledge and makin
 
 # Preface 
 > It's hard for people to realize now how inconsequential YC seemed at the time. I can't blame people who didn't take us seriously, because we ourselves didn't take that first summer program seriously in the very beginning. But as the summer progressed we were increasingly impressed by how well the startups were doing.… When people came to YC to speak at the dinners that first summer, they came in the spirit of someone coming to address a Boy Scout troop. By the time they left the building they were all saying some variant of "Wow, these companies might actually succeed."
-> —Paul Graham, [How Y Combinator Started](http://old.ycombinator.com/start.html)
 
-> The Master’s Tools Will Never Dismantle the Master’s House
-> — Audre Lorde
+> - Paul Graham, [How Y Combinator Started](http://old.ycombinator.com/start.html)
 
 
 ## How this project came to be
-This project was started by [Elliott Payne](http://elliottpayne.com) through his participation in [Change Network Minnesota](http://www.changenetworkminnesota.com) and is informed by lessons learned from supporting entrepreneurs in partnership with the [City of Minneapolis Innovation Team](http://innovateminneapolis.com) and through his consulting practice. This playbook is is written in the spirit of open source and inspired by the PIE Cookbook and the Startup Playbook.
+This project was started by Elliott Payne and is informed by ongoing work he's doing with the City of Minneapolis Innovation Team through his consulting practice supporting and encouraging minority and immigrant members of the community to start their own businesses. This playbook is inspired by the PIE Cookbook and the Startup Playbook.
 
-The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup Playbook in that its focus is on creating sustainable paths towards security and prosperity for  communities as opposed to creating a Silicon Valley style startup whose purpose is to create a return on investment for venture capitalists.
+The Permissionless Prosperity Playbook differs from the PIE Cookbook and Startup Playbook in that its focus is on creating sustainable paths towards security and prosperity for individuals and communities as opposed to creating a Silicon Valley style startup whose purpose is to create a return on investment for venture capitalists.
 
-## The People’s Theory
-Change Network Minnesota is a cohort based leadership initiative that grew out of a partnership between [The Cultural Wellness Center](http://www.culturalwellnesscenter.org), the Public and Nonprofit Leadership Center at the University of Minnesota's [Humphrey School of Public Affairs](https://www.hhh.umn.edu) and the [Bush Foundation](https://www.bushfoundation.org) whose goal is to build a more equitable and inclusive society through systems change. This project is an outgrowth of that year of learning, which was grounded in The Cultural Wellness Center’s People’s Theory, which grounds the health of people, systems, and institutions in a sense of belonging.
-
-The People’s Theory lays to rest the mythology of [bootstraping](https://en.wikipedia.org/wiki/Bootstrapping) your way to success by revealing the negative impacts of an individualistic approach to attaining prosperity. Instead, this work is grounded in a philosophy of community, where the group is valued and empowered, authority is given to the organic idea, and power and knowledge rests within people’s experiences. Prosperity exists within community.
-
+## The project's antecedents
+The Permissionless Prosperity Playbook 
+## The need for self enablement
 ## How we envision this playbook getting used
-Like many playbooks, there’s no one way to use this book. This book should not be approached as a step-by-step guide to success, but explored as a resource to unearth knowledge and opportunity within yourself and your community.
+Like many playbooks, there’s no one way to use this book. 
 
 ### Define what prosperity means to you before you start
-Knowing what drives you is the most important step. We use *prosperity* an expansive way to capture any number of meanings that are ultimately personal to you and exists within the context of your community. You have to ask yourself what's important to you, what are your values, and who are your people.
+Know what drives you is the most important step. We use in *prosperity* an expansive way to capture any number of meanings that are ultimately personal to you. You have to ask yourself what's important to you, what are your values.
 
 We can look to the [dictionary](https://www.wordnik.com/words/prosperous) to unpack the meaning of prosperity:
 
@@ -44,19 +40,19 @@ Digging a little deeper into the [definition](https://www.wordnik.com/words/pros
 > adj. Well-to-do; well-off: a prosperous family. </br>
 > adj. Propitious; favorable: a prosperous moment to make a decision.
 
-This is more helpful, but still leaves a lot of room for interpretation. Wealth, success, well-off, wellbeing, these are all concepts open for interpretation and you want to ground yourself now. Gaining status with a luxury car is one expression of wealth, putting a down payment on a home is another, being able to provide for your family is another. We're not here to judge your values, but you need to be clear in your values now, while you have the mental and emotional space to reflect on them without the pressure of making a judgement call that will test your values. All challenging decisions require trade-offs and knowing your values and goals are how you can make judgement calls with confidence.
+This is more helpful, but still leaves a lot of room for interpretation. Wealth, success, well-off, well being, these are all concepts open for interpretation and you want to ground yourself now. Gaining status with a luxury car is one expression of wealth, putting a down payment on a home is another, being able to provide for your family is another. We're not here to judge your values, but you need to know you values now, while you have the mental and emotional space to reflect on them without the pressure of making a judgement call that will test your values. All challenging decisions require trade-offs and knowing your values and goals are how you can make judgement calls in confidence.
 
-Take some time to write down your goals and your values. Define what prosperity means to you. Think about who your people are and how your goals and values fit in that context. This helps keep you on track and helps you know how you're doing as you embark on this journey.
+Take some time to write down your goals and your values. Define what prosperity means to. This helps keep you on track and helps you know how you're doing as you embark on this journey.
 
-### Some expected use cases or scenarios
+### Some expected uses
 
 This playbook provides the instructions that worked for other people and communities. They may or may not work for you. And your special adaptations are what make each play work for you. 
 
 With that in mind, our intention is to:
 
 - Arm you with enough knowledge to be dangerous. And to break things.
-- Give you enough insight into others’ processes for you to internalize them, change them, and create your own way of doing things.
-- Encourage you to communicate back to us what worked and what didn’t so that we can create a more compelling playbook for everyone that is just as motivated as we are.
+- Give you enough insight into others processes for you to internalize them, change them, and create your own way of doing things.
+- Encourage you to communicate back to us what worked and what didn’t. So that we can create a more compelling playbook for everyone that is just as motivated as we are.
 
 ### Jump around as needed. Choose your own adventure.
 This isn’t a book you read cover to cover. Some of this will seem obvious to you. If it is? Skip it. Sometimes you’ll need to start later in the book and work your way backwards.
@@ -64,7 +60,7 @@ This isn’t a book you read cover to cover. Some of this will seem obvious to y
 Start with what you have. Go from there.
 
 ## Who we believe will use this playbook
-This playbook is intended to be a community project, not an individual one. Certainly an industrious individual should be able to apply some of the lessons and insights to their life and get value out of it, but the power of the playbook is in the community.
+This playbook is intended to be a community project, not an individual. Certainly an industrious individual should be able to apply some of the lessons and insights to their life and get value out of it, but the power of the playbook is in the community.
 
 ## Open Source
 We are releasing this information as an open source project for a reason. Because we want this to be a conversation. 
@@ -73,7 +69,7 @@ This isn't a broadcast or soliloquy. It's a collaboration among communities. Tha
 
 
 ## Caveats
-We believe an honest approach to this work requires a caveat or two. If you’ve read this far, you will inevitably jump to the question: Is this book for me?
+I have always been a fan of books that start with a caveat or two. Because inevitably, you, gentle reader, have just started down this path. And given that you've already started to get a feel for where this is going, you're inevitably jumping to the question: Is this book for me?
 
 The answer is yes. But with a few caveats.
 
@@ -81,17 +77,18 @@ The answer is yes. But with a few caveats.
 If technology could solve this problem, we would have built it. Trust us. But it can't. This isn't about algorithms or dynamically connecting dots. This is about getting to know people. And what makes them tick. And what pisses them off. And what scares them. This is about seeing non-obvious connections. It is about using what artists refer to as "negative space." Finding opportunity in what is absent or invisible.   
   
 > Negative space, in art, is the space around and between the subject(s) of an image. Negative space may be most evident when the space around a subject, not the subject itself, forms an interesting or artistically relevant shape, and such space occasionally is used to artistic effect as the "real" subject of an image.  
-> The use of negative space is a key element of artistic composition. The Japanese word "ma" is sometimes used for this concept, for example in garden design.  
-> —[“Negative space" in Wikipedia](https://en.wikipedia.org/wiki/Negative_space)  
   
-So if you're looking for a way to throw technology at the problem and avoid the messy emotions of people, it's probably best to stop reading here and starting to search the web for what you think you need.
+> The use of negative space is a key element of artistic composition. The Japanese word "ma" is sometimes used for this concept, for example in garden design.  
+  
+> - ["Negative space" in Wikipedia](https://en.wikipedia.org/wiki/Negative_space)  
+  
+So if you're looking for a way to throw technology at the problem and avoid the messy feels and stuff, it's probably best to stop reading here and starting to search the web for what you think you need.
 
 ### 2) You have the internal motivation to uplift yourself and your community.
-This playbook starts with a quote from Paul Graham, the founder of Y-Combinator, juxtaposed against the wisdom of Audre Lorde. The is an unresolved tension between the desire to prosper within the existing system and the recognition that the existing system needs to change. You need to sit in that tension and have the motivation to work through it. Easier said than done.
  
 
 ### 3) This is not intended to be an efficient solution. 
-Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, of how time consuming this is. It will require hard work and perseverance. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build a sustainable and prosperous life for you and your community — no matter what that community happens to be.
+Given the first two caveats, it is appropriate to assume the third — and potentially most obvious — caveat, that one of how time consuming this is. It will require hard work and perseverance. There are no technology shortcuts. It takes time. But none of it is wasted. Even if you're making mistakes. Because it is through that process of trying, iterating, changing, and learning that you will manage to build a sustainable and prosperous life for you and your community — no matter what that community happens to be.
 
 ### 4) Be intentional
 So much of what occurs in an accelerator environment appears to happen organically and dynamically. But appearances, as they say, can be deceiving. And can belie all of the prior effort that has been invested prior to the accelerator environment.
@@ -121,7 +118,56 @@ If you, as the accelerator perceive something that behaves like community — no
 
 To be successful, you must work within the context and culture of your existing community. You're not going to be successful trying to build something that flies in the face of the community in which you're trying to build it.
 
+[The Art of Community: Seven Principles for Belonging](https://www.amazon.com/dp/B01E4KC0U4/ref=docs-os-doi_0) provides a helpful primer on the basic tenants of community building.
 
+1. Boundaries
+	- A boundary is the recognized demarcation between insiders (members) and outsiders. This boundary should be more about making the inside space safe for insiders than about keeping outsiders out. Where there’s a boundary, insiders feel more confident that they share values and that they understand one another better than outsiders.
+	- The boundary is maintained by either a formal or an informal authority.
+	- It’s imperative that the boundary is protected according to community values, as opposed to personal preferences, petty concerns, or whimsical criteria.
+2. Initiation
+	- An initiation is any activity that’s understood as official recognition and welcome into the community. The initiation helps members understand clearly who’s part of the community. It marks the completed journey over the boundary and into the inner ring.
+	- An initiation is a kind of ritual, and the best rituals come with symbols and tokens. Developing a ritual that’s right for your formal or informal community can make a profound difference in how welcomed a new member feels.
+	- There’s a common phenomenon in many groups, particularly highly selective elite ones, where many members become convinced that they don’t belong. Invitations resolve the crisis of belonging and as a solution they are so simple as to be almost unbelievable.
+3. Rituals
+	- A ritual is any practice that marks a time or event as special or important. The actions are imbued with meaning. They connect the present with things in the past and our hope for the future.
+	- Strong communities create both formal and informal rituals. There are as many types of ritual as your imagination can conjure up. They often rely on special symbols and are important emotionally. Remember: feeling connected, trusted, appreciated, and welcome is all in the realm of emotion.
+	- Rituals often have forms (patterns) that participants recognize. We learn these forms after participating in them when the time is right.
+	- Rites of passage are important (and not common enough). They’re the most common ritual to notice in communities. This rite is where the community acknowledges someone is passing from one status to another. This can be from one age to another (a birthday), from student to alumnus (graduation), or from follower to leader (promotion or inauguration). The initiation to membership is a rite of passage from outsider to insider. In this rite, the community acknowledges the maturation and growth of a member.
+	- Community display rituals reveal the community to itself. There must be collective displays of participation and community membership. This means that there should be some activities where members can see other members participating as well.
+	- Play rituals are very important. Communities must have an opportunity to play together.
+		- Foundational Form Elements:
+	    - Opening
+	        1. Welcome 
+	        2. Intention
+	        3. Reference a tradition
+	        4. Explain events and instructions
+	    - Body
+	        1. Share wisdom
+	        2. Invite participation 
+	    - Closing
+	        1. Acknowledgment
+	        2. Sending
+4. Temple
+	- We all want a place where our community gathers and we can do things that we long for in our everyday lives. A temple is simply a place where people with shared values enact their community’s rituals. Members know that it’s where they’ll find their community. Members who are far away may long to visit.
+5. Stories
+	- Stories are the most powerful way we humans learn. Every community, like every person, is full of stories. Sharing certain stories deepens a community’s connections. If people don’t know (or can’t learn) your stories, they don’t know or understand your community. They can’t know who you are, what you do, or how what you do matters. Stories are how members, future members, and outsiders learn the values and the value of the community. The stories must be shared so that members can understand the community’s authentic values and identity.
+	- **Origin Stories:** Among the most important stories are origin stories. By definition, these stories explain how something started, i.e., its origin. There can be different origin stories for different parts of a community. But there must be a single origin story about how the founders were inspired to form the community.
+	- **Sharing Values Stories:** There must also be stories about how the community’s values are expressed and how they affect real people. These stories will tell everyone far more about the community identity than everything else combined.
+	- **Sharing Vulnerable Stories:** Strong communities share stories in which leadership, members, or even the overall organization was vulnerable. These stories build strong bonds. They may include accounts of failure, or the fears, feelings, and truths we don’t want the whole world to know. These stories are so important that if they’re not shared, and the vulnerability and intimacy is never built, there will almost certainly be a superficial feeling of connection among members and with leadership.
+	- **Sharing Personal Stories:** Members need opportunities to share their own stories, whether in formal or informal venues (or both). This helps them feel that they’re seen and understood. It also helps members understand the shared values in the community. These stories share the real challenges people faced and how those challenges shaped the teller’s current character.
+6. Symbols
+	- Symbols are powerful tools in building community because they quickly remind us of our values, identity, and commitment in a community. Using symbols is a way to make communities stronger. Symbols represent a set of ideas and values, which is to say, they often represent many things at once. They can conveniently stand in for many words.
+	- A community symbol is far more than a pictorial representation of a single word, idea, or memory. In fact, community symbols work best when they’re not too literal. Literal symbols leave less interpretive room to represent numerous and evolving ideas.
+	- **Tokens as Symbols:** A token is a kind of symbol given to a person as a keepsake to remember an idea, event, or set of values. It’s often a reminder of accomplishment, belonging, and commitment. People love tokens. They often have powerful meaning when leaders or peers present them in rituals.
+	- To use the power of tokens we can use a few simple principles.
+    - Intention: Tell the receiver why you’re giving it to her.
+    - Connect to the future: Tell her how you hope it will support, change, or serve her.
+    - Symbolism: Tell her what it represents to you.
+7. Inner Rings
+	- We all aspire to belong to prestigious inner rings, perhaps not just for authority and respect but for new ways to participate and contribute. This desire is so powerful that we’re rarely satisfied with the rings we already inhabit.
+	- A typical progression will look something like this, with different labels:
+	- A community can decide what makes an appropriate inner ring and how many there should be. Obviously there’s a point at which it becomes pointless and silly: imagine an organization with only ten members and seven inner rings! Even small organizations, however, will see at least a few informal rings form.
+	- Strong communities offer a journey (progression) into successive inner rings. While some members may choose to stay at a particular level, mature communities provide opportunities to progress in their series of inner rings. In the best examples, the progression reflects a journey of growth or maturation.
 
 ## Spoiler alert
 This document is full of "spoiler alerts," things that have been learned over the course of time. In most every case, it may not be wise — or downright foolhardy — to start where this playbook ends. You should start where the playbook started. And try to end where you want to end. 
@@ -138,18 +184,13 @@ Don't try to build an idea that doesn't have a target community.
 - Some of your community assets may have never combined before, but they're still both assets to be considered
 
 ### Just enough
-You can go too far.
+You can go too far:
 - In design
 - In structure
 - In goals
-- In trying to over architect the experience
 - In over planning and under participating
 
 This is meant to be a little messy.
-
-### There is no pause button
-
-Once you start, you cannot stop. Ever.
 
 ## History of Permissionless Prosperity Playbook
 - - -
@@ -158,19 +199,21 @@ There are a benefits to starting something after people have already tested the 
 
 Rather than selecting one program after which to pattern ourselves in a cookie-cutter fashion we chose to instead dissect each program and take only the elements which we felt best resonated with our audience — and that we had a chance of effectively emulating.
 
-That is, it did us no good to strive to set up the program up as the onramp to the Silicon Valley elite and a bevy of investors — because we didn’t have the access that would have enabled this. Instead, we took only the parts of each program we had the ingredients to effectively recreate. 
+That is, it did us no good to strive to set up the program as the onramp to the Silicon Valley elite and a bevy of investors — because we didn’t have the access that would have enabled this. Instead, we took only the parts of each program we had the ingredients to effectively recreate. 
 - - -
 
 # Introduction
-The PIE methodology has been tested, refined, and proven in Portland over an eight-year period. During that time, the program implementing that methodology has fostered the growth of [a number of companies](http://www.piepdx.com/#press-section), such as AppFog, AppThwack, Cloudability, Little Bird, Lytics, Outdoor Project, Simple, Supportland/Placemaker, Switchboard, Uncorked Studios, and Urban Airship, to name a few. 
+The approaches and paths to prosperity shared in this playbook reflect the lived experience of entrepreneurs who have successfully navigated their way through existing systems or who have blazed new trails. These lessons have been learned through direct application of these methods, interviews, and through wisdom shared by elders.
 
-Our alumni have collectively attracted hundreds of millions of dollars in venture capital and created more than 1,000 well-paying employment opportunities. Just as important, the program has helped educate a new generation of entrepreneurs — whether the businesses those entrepreneurs were originally pursuing have succeeded or not.
+The Permissionless Prosperity Playbook is centered on the experiences of entrepreneurs who have been excluded from traditional paths to prosperity. Black, indigenous, people of color (BIPOC) and immigrant communities have faced barriers to success that white Americans take for granted. These barriers include generational poverty, inability to access working capital, lack of affordable commercial space, blighted or unsafe neighborhood conditions in their community, and many more. 
 
-We firmly believe that the techniques and methods PIE has developed are a means of creating communities of trust and accelerating creative output in ways that are applicable to a vast spectrum of entrepreneurial communities. 
+Many entrepreneurs have found their way towards defining and achieving prosperity despite the overwhelming barriers they’ve had to navigate. They have been able to achieve prosperity without the permission of gatekeepers. They have been able to accomplish this by focussing on their assets rather than their barriers. 
+
+We firmly believe that the techniques and methods represented in the Permissionless Prosperity Playbook are a means of creating communities of trust and accelerating creative output in ways that are applicable to a vast spectrum of entrepreneurial communities. 
 
 We sincerely hope that our mistakes, happy accidents, and successes prove valuable to you and your communities as you work to build the support infrastructure that gives your entrepreneurs the best chance of success.
 
-Welcome to the PIE Cookbook.
+Welcome to the Permissionless Prosperity Playbook.
 
 ## What this is not
 Before we get into what the PIE Cookbook *is* it might be helpful to explain what the PIE Cookbook is not.
